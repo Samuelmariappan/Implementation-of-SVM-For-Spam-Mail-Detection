@@ -66,7 +66,7 @@ accuracy
 ## Output:
 
 ## Result output:
-![281978212-1be2e57f-2501-41c0-862a-19bd02626dc6](https://github.com/charumathiramesh/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120204455/28a5795a-2580-433a-9443-e2f07c687b5e)
+![image](https://github.com/Samuelmariappan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119393030/fe64d19b-19b9-4e98-b34a-fca3d9d56276)
 
 
 ## data.head():
